@@ -1,0 +1,13 @@
+﻿  Rotor.cpp
+  application.cpp
+D:\Projects\C++\Complete Projects\Enigma Machine\Classes\Machine.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'application.cpp')
+  
+D:\Projects\C++\Complete Projects\Enigma Machine\Classes\Machine.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'application.cpp')
+  
+D:\Projects\C++\Complete Projects\Enigma Machine\Classes\Rotors.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'application.cpp')
+  
+  Generating Code...
+  Enigma Machine.vcxproj -> D:\Projects\C++\Complete Projects\Enigma Machine\x64\Debug\Enigma Machine.exe
